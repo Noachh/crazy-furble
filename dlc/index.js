@@ -15,10 +15,12 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "german.dlc", 
+        "title": "German",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "Speech", "action": [75,0,1,1] },
+            { "title": "Speech2", "action": [75,0,4,4] },
+            { "title": "Speech3", "action": [75,0,3,4] },
         ]
     },
     {
