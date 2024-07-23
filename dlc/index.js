@@ -1,9 +1,8 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
-        "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+        "file": "german.dlc", 
+        "title": "German Speech[
+            { "title": "German", "action": [75,0,4,4] }
         ]
     },
     { 
